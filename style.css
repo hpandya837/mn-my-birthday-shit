@@ -17,7 +17,7 @@ body{
     min-height: 100vh;
     position: relative;
 }
-#welcome{
+.welcome{
   width: 12rem;
   height:5rem;
   margin-bottom: 5%;
@@ -34,16 +34,16 @@ body{
 }
 
 @keyframes mymove {
-  10% {border-color: #1f2983;}
+  10% {border-color: #2e7d32;}
  
 
 
-  25% {border-color: rgb(46, 60, 139);}
+  25% {border-color: #388e3c}
 
-  50% {border-color: #262880;}
-  75% {border-color: #2a2972;}
-  90% {border-color: #4a4cb0;}
-  100%{border-color: #111c85;}
+  50% {border-color: #43a047;}
+  75% {border-color: #4caf50;}
+  90% {border-color: #66bb6a;}
+  100%{border-color: #c7d1af;}
 }
 
 
@@ -56,7 +56,7 @@ body{
 }
 
 .change-color{
-    color: #D2B48C;
+    color: #c7d1af;
     font-size: 4rem;
 }
 
