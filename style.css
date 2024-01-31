@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+@import url('https://use.typekit.net/woi5kqa.css');
 
 
 body{
@@ -7,9 +7,9 @@ body{
     height: 100%;
     background-color: #9ba682 !important;
     overflow-x: hidden;
-   font-family: "shinryu", sans-serif;
-font-weight: 400;
-font-style: normal;
+    font-family: "rufina", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .jamba{
@@ -107,6 +107,9 @@ font-style: normal;
     height: auto;
 }
 
+.text1 {
+  font-size: 60px;
+}
 
 
 
